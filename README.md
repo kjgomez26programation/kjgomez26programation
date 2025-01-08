@@ -1,7 +1,7 @@
-# 👋 Hi there! I'm Manibarathi  
-I am a Computer Science student, who is currently exploring **JavaScript** and its Ecosystem. Apart from coding, I practise **Speedcubing**.
-
+# 👋 Hi there! I'm Kelly Jhojana Gomez Pernia  
+I am a Computer Engineer and Web Developer specializing in WordPress, HTML, PHP, Tailwind CSS, JavaScript, and React.
 ### Technologies and Tools
+
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -15,8 +15,7 @@ I am a Computer Science student, who is currently exploring **JavaScript** and i
 <br />
 
 ### Connect with me
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://manibarathi.web.app/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mani-bharathi-08/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kelly-jhojana-gomez-9750a02a3/)
 
 #### Feel free to create a pull request to contribute to any of my repositories.💙
 

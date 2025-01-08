@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelly Jhojana Gomez 
 
-I am a Computer Engineer and Web Developer specialized in WordPress, HTML, PHP, Tailwind CSS, Vue js , JavaScript and React.
+I am a Computer Engineer and Web Developer specialized in WordPress, HTML, CSS3, PHP, Tailwind CSS, Vue js , JavaScript and React.
 
 ---
 

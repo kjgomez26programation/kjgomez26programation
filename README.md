@@ -23,8 +23,6 @@ I am a Computer Engineer and Web Developer specialized in WordPress, HTML, PHP, 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/kelly-jhojana-gomez-9750a02a3/)
 
----
 
-#### 💙 
 
----
+

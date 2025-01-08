@@ -1,10 +1,10 @@
-# 👋 Hola, soy Kelly Jhojana Gomez Pernia
+# 👋 Hi, I'm Kelly Jhojana Gomez Pernia
 
-Soy Ingeniera en Computación y Desarrolladora Web especializada en WordPress, HTML, PHP, Tailwind CSS, JavaScript y React.
+I am a Computer Engineer and Web Developer specialized in WordPress, HTML, PHP, Tailwind CSS, Vue js , JavaScript and React.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
 <p align="left">
   <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -19,18 +19,12 @@ Soy Ingeniera en Computación y Desarrolladora Web especializada en WordPress, H
 
 <br />
 
-### 🌐 Conéctate conmigo
+### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/kelly-jhojana-gomez-9750a02a3/)
 
 ---
 
-#### 💙 Siéntete libre de crear un pull request para contribuir a cualquiera de mis repositorios.
+#### 💙 
 
 ---
-
-# <span style="color: blue;">Hello Kelly</span>
-# <span style="color: blue;">Hello Kelly</span>
-# <span style="color: blue;">Hello Kelly</span>
-# <span style="color: blue;">Hello Kelly</span>
-# <span style="color: blue;">Hello Kelly</span>

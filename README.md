@@ -1,3 +1,6 @@
+# ![Programadora](https://undraw.co/illustrations/undraw_programmer_re_owql.svg)
+
+
 # 👋 Hola, soy Kelly Jhojana Gomez Pernia
 
 Soy Ingeniera en Computación y Desarrolladora Web especializada en WordPress, HTML, PHP, Tailwind CSS, JavaScript y React.
